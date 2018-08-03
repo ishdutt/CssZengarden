@@ -1,0 +1,64 @@
+h1 {
+	
+	text-align: center;
+	padding-top: 10%;
+	font-size: 50px;
+	padding-bottom: 0;
+	font-family: 'Zilla Slab Highlight', cursive;
+	margin-top: 0;
+}
+h3{
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+	font-size: 40px;
+	color:white;
+}
+#head{
+	background:url(http://www.resortcams.com/wp-content/uploads/2014/07/header-mountain.jpg);
+	background-position: 50% 55%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h2{
+	padding-left: 10%;
+	font-family: 'Meera Inimai', sans-serif;
+	font-size: 30px;
+}
+
+body{
+background: rgb(21,188,236);
+background: linear-gradient(90deg, rgba(21,188,236,1) 0%, rgba(255,203,193,1) 97%);
+margin-right: 5%;
+border-top: 20px solid rgb(21,188,236) ;
+marker-end: 0px 0px 0px 0px;
+margin: 0;
+}
+p {
+	font-family: 'Roboto Condensed';
+	font-size: 1.5em;
+	padding-right: 20%;
+	padding-left: 10%;
+
+}
+.name{
+	font-family: 'Great Vibes', cursive;
+	font-size: 60px;
+	background:url(https://i0.wp.com/www.123bm3.com/wp-content/uploads/2017/11/soft-color-blurred-background-rocks-hd-wallpaper-abstrack-photo-blurred-colors-hd-wallpaper-1500x630.jpg?resize=300%2C126);
+	text-align: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 50% 55%;
+	padding: 6% 0;
+}
+.back{
+background:url(https://i0.wp.com/www.123bm3.com/wp-content/uploads/2017/11/soft-color-blurred-background-rocks-hd-wallpaper-abstrack-photo-blurred-colors-hd-wallpaper-1500x630.jpg?resize=300%2C126);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+
